@@ -1,0 +1,28 @@
+{
+  "version": "10.42",
+  "mode": "direct-click-locationmaps",
+  "worldMaps": {
+    "aurelion": "maps/worlds-v1041/aurelion.webp",
+    "eldoria": "maps/worlds-v1041/eldoria.webp",
+    "vespera": "maps/worlds-v1041/vespera.webp",
+    "nytheria": "maps/worlds-v1041/nytheria.webp",
+    "kryndor": "maps/worlds-v1041/kryndor.webp",
+    "zyphoria": "maps/worlds-v1041/zyphoria.webp",
+    "acronia": "maps/worlds-v1041/acronia.webp",
+    "thalor": "maps/worlds-v1041/thalor.webp",
+    "sylvantis": "maps/worlds-v1041/sylvantis.webp"
+  },
+  "standaloneLocations": {
+    "floating-villa": "maps/location-focus-v1041/floating-villa.webp",
+    "waterspiegel": "maps/location-focus-v1041/waterspiegel.webp",
+    "house-silence": "maps/location-focus-v1041/house-silence.webp",
+    "black-nautilus": "maps/location-focus-v1041/black-nautilus.webp",
+    "sunken-library": "maps/location-focus-v1041/sunken-library.webp",
+    "spine": "maps/location-focus/07_Spine_De_Stille_Kristalmijn.webp"
+  },
+  "notes": {
+    "interaction": "Klik op een reeds getekende locatienaam in de 2D-wereldkaart om direct de bijbehorende detailkaart te openen.",
+    "atlas": "Geen aparte samengestelde locatie-atlas of bijzondere-locaties-overzicht. In v10.42 zijn alle uitgeknipte locatiepanelen opnieuw exact op de gouden paneelranden uitgesneden en genormaliseerd naar 1200×900 zonder aangrenzende beeldfragmenten.",
+    "waterspiegelRuined": "maps/location-focus/03_Waterspiegel_Foundation_VERvallen_en_droog.webp"
+  }
+}

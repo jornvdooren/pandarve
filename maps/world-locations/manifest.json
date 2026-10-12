@@ -1,0 +1,1100 @@
+{
+  "aurelion": [
+    {
+      "index": 1,
+      "name": "Aurelion",
+      "file": "maps/world-locations/aurelion/01.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 45,
+        "y": 50
+      },
+      "crop": {
+        "left": 522,
+        "top": 413,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Solterrassen",
+      "file": "maps/world-locations/aurelion/02.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 58,
+        "y": 32
+      },
+      "crop": {
+        "left": 710,
+        "top": 218,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Luminar",
+      "file": "maps/world-locations/aurelion/03.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 43,
+        "y": 70
+      },
+      "crop": {
+        "left": 493,
+        "top": 630,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Elysium",
+      "file": "maps/world-locations/aurelion/04.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 18,
+        "y": 42
+      },
+      "crop": {
+        "left": 131,
+        "top": 326,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Tempelarchipel",
+      "file": "maps/world-locations/aurelion/05.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 31,
+        "y": 84
+      },
+      "crop": {
+        "left": 319,
+        "top": 782,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "De Stille Ruïnes",
+      "file": "maps/world-locations/aurelion/06.webp",
+      "sourceWorld": "maps/worlds/01_Aurelion.png",
+      "hotspot": {
+        "x": 84,
+        "y": 46
+      },
+      "crop": {
+        "left": 1086,
+        "top": 370,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "eldoria": [
+    {
+      "index": 1,
+      "name": "Thaeldor",
+      "file": "maps/world-locations/eldoria/01.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 50,
+        "y": 29
+      },
+      "crop": {
+        "left": 594,
+        "top": 185,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Valgraat",
+      "file": "maps/world-locations/eldoria/02.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 20,
+        "y": 30
+      },
+      "crop": {
+        "left": 160,
+        "top": 196,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Nyxmonoliet",
+      "file": "maps/world-locations/eldoria/03.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 79,
+        "y": 55
+      },
+      "crop": {
+        "left": 1014,
+        "top": 467,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Kristalvelden van Zerath",
+      "file": "maps/world-locations/eldoria/04.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 82,
+        "y": 36
+      },
+      "crop": {
+        "left": 1057,
+        "top": 261,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Gespleten Plateaus",
+      "file": "maps/world-locations/eldoria/05.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 62,
+        "y": 45
+      },
+      "crop": {
+        "left": 768,
+        "top": 359,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "De Schaduwkammen",
+      "file": "maps/world-locations/eldoria/06.webp",
+      "sourceWorld": "maps/worlds/02_Eldoria.png",
+      "hotspot": {
+        "x": 69,
+        "y": 75
+      },
+      "crop": {
+        "left": 869,
+        "top": 684,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "vespera": [
+    {
+      "index": 1,
+      "name": "Tallar",
+      "file": "maps/world-locations/vespera/01.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 29,
+        "y": 41
+      },
+      "crop": {
+        "left": 290,
+        "top": 315,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Moshaven",
+      "file": "maps/world-locations/vespera/02.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 31,
+        "y": 55
+      },
+      "crop": {
+        "left": 319,
+        "top": 467,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Vesperpoort",
+      "file": "maps/world-locations/vespera/03.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 63,
+        "y": 56
+      },
+      "crop": {
+        "left": 782,
+        "top": 478,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Lichtval Ruïnes",
+      "file": "maps/world-locations/vespera/04.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 74,
+        "y": 46
+      },
+      "crop": {
+        "left": 942,
+        "top": 370,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Wereldboomwoud",
+      "file": "maps/world-locations/vespera/05.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 76,
+        "y": 19
+      },
+      "crop": {
+        "left": 970,
+        "top": 76,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Reuzenwoud",
+      "file": "maps/world-locations/vespera/06.webp",
+      "sourceWorld": "maps/worlds/03_Vespera.png",
+      "hotspot": {
+        "x": 40,
+        "y": 32
+      },
+      "crop": {
+        "left": 449,
+        "top": 218,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "nytheria": [
+    {
+      "index": 1,
+      "name": "Grijze Spitsen",
+      "file": "maps/world-locations/nytheria/01.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 67,
+        "y": 18
+      },
+      "crop": {
+        "left": 840,
+        "top": 65,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Zinkende Steden",
+      "file": "maps/world-locations/nytheria/02.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 64,
+        "y": 36
+      },
+      "crop": {
+        "left": 797,
+        "top": 261,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Overlevenden Enclave",
+      "file": "maps/world-locations/nytheria/03.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 78,
+        "y": 52
+      },
+      "crop": {
+        "left": 999,
+        "top": 435,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Het Verdronken Vlak",
+      "file": "maps/world-locations/nytheria/04.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 25,
+        "y": 66
+      },
+      "crop": {
+        "left": 232,
+        "top": 587,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Basalten Archipel",
+      "file": "maps/world-locations/nytheria/05.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 40,
+        "y": 65
+      },
+      "crop": {
+        "left": 449,
+        "top": 576,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Nimmerdiep",
+      "file": "maps/world-locations/nytheria/06.webp",
+      "sourceWorld": "maps/worlds/04_Nytheria.png",
+      "hotspot": {
+        "x": 61,
+        "y": 56
+      },
+      "crop": {
+        "left": 753,
+        "top": 478,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "kryndor": [
+    {
+      "index": 1,
+      "name": "Korvash",
+      "file": "maps/world-locations/kryndor/01.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 31,
+        "y": 39
+      },
+      "crop": {
+        "left": 319,
+        "top": 294,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Tharun",
+      "file": "maps/world-locations/kryndor/02.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 72,
+        "y": 31
+      },
+      "crop": {
+        "left": 913,
+        "top": 207,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Drakesh",
+      "file": "maps/world-locations/kryndor/03.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 84,
+        "y": 61
+      },
+      "crop": {
+        "left": 1086,
+        "top": 532,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Skael",
+      "file": "maps/world-locations/kryndor/04.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 29,
+        "y": 57
+      },
+      "crop": {
+        "left": 290,
+        "top": 489,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Keldor",
+      "file": "maps/world-locations/kryndor/05.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 53,
+        "y": 64
+      },
+      "crop": {
+        "left": 637,
+        "top": 565,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Vraktop",
+      "file": "maps/world-locations/kryndor/06.webp",
+      "sourceWorld": "maps/worlds/05_Kryndor.png",
+      "hotspot": {
+        "x": 54,
+        "y": 15
+      },
+      "crop": {
+        "left": 652,
+        "top": 33,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "zyphoria": [
+    {
+      "index": 1,
+      "name": "Valmere",
+      "file": "maps/world-locations/zyphoria/01.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 39,
+        "y": 17
+      },
+      "crop": {
+        "left": 435,
+        "top": 55,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Aerantis",
+      "file": "maps/world-locations/zyphoria/02.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 55,
+        "y": 40
+      },
+      "crop": {
+        "left": 666,
+        "top": 304,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Cirran",
+      "file": "maps/world-locations/zyphoria/03.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 22,
+        "y": 49
+      },
+      "crop": {
+        "left": 189,
+        "top": 402,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Skyreach",
+      "file": "maps/world-locations/zyphoria/04.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 67,
+        "y": 20
+      },
+      "crop": {
+        "left": 840,
+        "top": 87,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Halcyon",
+      "file": "maps/world-locations/zyphoria/05.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 69,
+        "y": 70
+      },
+      "crop": {
+        "left": 869,
+        "top": 630,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "The Drift",
+      "file": "maps/world-locations/zyphoria/06.webp",
+      "sourceWorld": "maps/worlds/06_Zyphoria.png",
+      "hotspot": {
+        "x": 44,
+        "y": 61
+      },
+      "crop": {
+        "left": 507,
+        "top": 532,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "acronia": [
+    {
+      "index": 1,
+      "name": "De Kroonhaven",
+      "file": "maps/world-locations/acronia/01.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 47,
+        "y": 49
+      },
+      "crop": {
+        "left": 551,
+        "top": 402,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Keldris",
+      "file": "maps/world-locations/acronia/02.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 21,
+        "y": 23
+      },
+      "crop": {
+        "left": 174,
+        "top": 120,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Tarren",
+      "file": "maps/world-locations/acronia/03.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 80,
+        "y": 33
+      },
+      "crop": {
+        "left": 1028,
+        "top": 228,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Syntha",
+      "file": "maps/world-locations/acronia/04.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 12,
+        "y": 57
+      },
+      "crop": {
+        "left": 44,
+        "top": 489,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Valmere",
+      "file": "maps/world-locations/acronia/05.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 73,
+        "y": 61
+      },
+      "crop": {
+        "left": 927,
+        "top": 532,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Vellas",
+      "file": "maps/world-locations/acronia/06.webp",
+      "sourceWorld": "maps/worlds/07_Acronia.png",
+      "hotspot": {
+        "x": 36,
+        "y": 85
+      },
+      "crop": {
+        "left": 391,
+        "top": 793,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "thalor": [
+    {
+      "index": 1,
+      "name": "Aerath Skyport",
+      "file": "maps/world-locations/thalor/01.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 20,
+        "y": 39
+      },
+      "crop": {
+        "left": 160,
+        "top": 294,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Daelen Harbor",
+      "file": "maps/world-locations/thalor/02.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 25,
+        "y": 55
+      },
+      "crop": {
+        "left": 232,
+        "top": 467,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Miralis Cliff City",
+      "file": "maps/world-locations/thalor/03.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 38,
+        "y": 35
+      },
+      "crop": {
+        "left": 420,
+        "top": 250,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Auris Skyport",
+      "file": "maps/world-locations/thalor/04.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 71,
+        "y": 36
+      },
+      "crop": {
+        "left": 898,
+        "top": 261,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Veltar Hanging City",
+      "file": "maps/world-locations/thalor/05.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 62,
+        "y": 48
+      },
+      "crop": {
+        "left": 768,
+        "top": 391,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Kethra Cantilever",
+      "file": "maps/world-locations/thalor/06.webp",
+      "sourceWorld": "maps/worlds/08_Thalor.png",
+      "hotspot": {
+        "x": 77,
+        "y": 59
+      },
+      "crop": {
+        "left": 985,
+        "top": 511,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ],
+  "sylvantis": [
+    {
+      "index": 1,
+      "name": "Hartwoud",
+      "file": "maps/world-locations/sylvantis/01.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 48,
+        "y": 34
+      },
+      "crop": {
+        "left": 565,
+        "top": 239,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 2,
+      "name": "Oerwoudruïnes",
+      "file": "maps/world-locations/sylvantis/02.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 69,
+        "y": 36
+      },
+      "crop": {
+        "left": 869,
+        "top": 261,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 3,
+      "name": "Elaris",
+      "file": "maps/world-locations/sylvantis/03.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 57,
+        "y": 48
+      },
+      "crop": {
+        "left": 695,
+        "top": 391,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 4,
+      "name": "Vergeten Heiligdommen",
+      "file": "maps/world-locations/sylvantis/04.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 34,
+        "y": 65
+      },
+      "crop": {
+        "left": 362,
+        "top": 576,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 5,
+      "name": "Sluimerwoud",
+      "file": "maps/world-locations/sylvantis/05.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 76,
+        "y": 70
+      },
+      "crop": {
+        "left": 970,
+        "top": 630,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    },
+    {
+      "index": 6,
+      "name": "Lianenvallei",
+      "file": "maps/world-locations/sylvantis/06.webp",
+      "sourceWorld": "maps/worlds/09_Sylvantis.png",
+      "hotspot": {
+        "x": 75,
+        "y": 52
+      },
+      "crop": {
+        "left": 956,
+        "top": 435,
+        "size": 260
+      },
+      "resolution": [
+        1600,
+        1600
+      ],
+      "mode": "focused-source-crop"
+    }
+  ]
+}
