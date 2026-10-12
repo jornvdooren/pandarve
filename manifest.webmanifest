@@ -1,0 +1,11 @@
+{
+  "name": "Pandarve Cosmos Globe",
+  "short_name": "Pandarve",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05070f",
+  "theme_color": "#101827",
+  "orientation": "landscape",
+  "description": "Interactieve Pandarve universumkaart",
+  "scope": "./"
+}
